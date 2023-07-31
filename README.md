@@ -1,4 +1,4 @@
-# psono-helm-chart
+# psono-helm-chart test
 
 Unofficial helm chart for the [Psono password manager](https://psono.com).
 
